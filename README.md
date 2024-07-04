@@ -20,4 +20,4 @@ Aqui está uma lista de projetos sugeridos para a Coding Sprint. Sinta-se à von
 
 ## Contato
 
-Se você tiver alguma dúvida, entre em contato com a organização do evento.
+Se você tiver alguma dúvida, entre em contato com a organização do evento pelo email: sudeste@python.org.br
