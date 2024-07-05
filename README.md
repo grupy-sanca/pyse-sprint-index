@@ -2,7 +2,8 @@
 O que é uma Coding Sprint?
 
 Uma Coding Sprint é uma maratona de desenvolvimento colaborativo onde participantes se reúnem para contribuir com projetos de código aberto, resolver problemas, implementar novas funcionalidades e aprender em conjunto. É uma excelente oportunidade para networking, aprendizado prático e para fazer contribuições significativas para a comunidade.
-Como Participar
+
+Como Participar?
 
 Se você tem uma ideia ou quer contribuir com um projeto, siga os passos abaixo:
 
