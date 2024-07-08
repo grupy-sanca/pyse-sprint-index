@@ -20,6 +20,14 @@ Aqui está uma lista de projetos sugeridos para a Coding Sprint. Sinta-se à von
   - Um gerenciador de coding dojos, criado pelo grupy-sanca para realização dos dojos mensais
 - [poetry-repository-template] (https://github.com/galvsoliveira/python-poetry-production-level-repository-template)
   - Um template de repositório com python, poetry, pre-commits com gerenciamento de versão do python e do poetry pelo ASDF. Queria saber como ele poderia ser melhorado, se poderíamos colocar numa CLI ou o que seria melhor. Estava pensando se não seria interessante substituímos pelo UV, mas meu medo é ele não estar maduro o suficiente. Acho que o ideal seria se conseguíssemos, começar um repositório do zero e de alguma forma simples instalar ele no python e executar tudo, fazendo perguntas ao usuário. 
+- [dynagrpc](https://github.com/danilobellini/dynagrpc)
+  - Biblioteca para implementar servidores gRPC em Python e converter
+    entre tipos nativos Python e protobuf usando AST debaixo dos panos.
+    Há muitas coisas que podem ser realizadas, includindo uma
+    configuração para usar GitHub Actions, mais testes, completar
+    conversores entre tipos protobuf e Python (e.g. os WKTs `Duration`
+    e `Timestamp` poderiam ser convertidos de/para
+    instâncias das classes definidas em `datetime` no Python).
 
 ## Contato
 
