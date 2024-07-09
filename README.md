@@ -28,6 +28,8 @@ Aqui está uma lista de projetos sugeridos para a Coding Sprint. Sinta-se à von
     conversores entre tipos protobuf e Python (e.g. os WKTs `Duration`
     e `Timestamp` poderiam ser convertidos de/para
     instâncias das classes definidas em `datetime` no Python).
+- [meetup-telegram-bot](https://github.com/grupy-sanca/meetup-telegram-bot)
+  - Um bot para divulgar os eventos do grupy-sanca no grupo do Telegram a partir da API do Meetup. Ainda está na fase de ideação, precisamos de ajuda para puxar os dados da API do Meetup (GraphQL) e estruturar o bot.
 
 ## Contato
 
